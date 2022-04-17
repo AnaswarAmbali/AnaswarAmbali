@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnaswarAmbali
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning Cyber Forensics
-- 📫 How to reach me @anaswarambali on Instagram
+- 📫 reach me @anaswarambali on Instagram
 
 <!---
 AnaswarAmbali/AnaswarAmbali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
